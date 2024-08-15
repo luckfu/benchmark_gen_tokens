@@ -1,0 +1,2 @@
+# benchmark_gen_tokens
+测试llm模型的tokens生成速度
